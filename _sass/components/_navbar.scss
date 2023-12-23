@@ -9,7 +9,6 @@
     color: white;
     border: 0;
     background-color: $primary;
-    font-family:'Cairo', sans-serif !important;
     @include heading-font;
   }
   .navbar-brand {
@@ -21,6 +20,7 @@
     &:hover {
       color: darken($primary, 10%);
     }
+    font-family:'Cairo', sans-serif !important;
   }
   .navbar-nav {
     .nav-item {
