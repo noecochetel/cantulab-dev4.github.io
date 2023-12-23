@@ -9,6 +9,7 @@
     color: white;
     border: 0;
     background-color: $primary;
+    font-family:'Cairo', sans-serif !important;
     @include heading-font;
   }
   .navbar-brand {
