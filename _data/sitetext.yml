@@ -91,8 +91,8 @@ en: &DEFAULT_EN
 
   team:
     title: "Our Team"
-    text: "The people behind the articles"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "The People behind the Science"
+    subtext: Students and researchers at any level in their career (postdoc, PhD, MSc, BSc) and with outstanding training in genetics, plant molecular biology, or bioinformatics are invited to contact us to discuss possible projects. The Cantu lab is accepting MSc students from Viticulture and Enology and PhD students from Plant Biology, Plant Pathology, Integrative Genetics and Genomics, and Horticulture and Agronomy.
     section: team
     people:
       - name: "Dario Cantù"
