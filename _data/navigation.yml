@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Join us"
-      section: join 
     - title: "Contact"
       section: about
 en-US:
