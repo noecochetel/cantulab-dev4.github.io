@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-bug
       - title: "Domestication traits"
         desc: "We also study many traits of agronomical interest such as sex determination, wine aromas and microbiome associations"
-        icon: fas wine-glass
+        icon: fas fa-wine-glass
       - title: "Community"
         desc: "We provide data and ressources to the community. We host a website for grape genomes including blast and genome browser tools. Find out more on [grapegenomics.com](https://grapegenomics.com)."
-        icon: fas wine-glass
+        icon: fas fa-users-line
 
   # portfolio:
   #   title: "Portfolio"
