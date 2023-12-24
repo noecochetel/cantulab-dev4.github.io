@@ -27,9 +27,13 @@ en: &DEFAULT_EN
       - title: "Pathogens/Diseases"
         desc: "Our focus areas include resistance to fungal and bacterial diseases, wood diseases, susceptibility to wildfire smoke, etc."
         icon: fas fa-bug
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Domestication traits"
+        desc: "We also study many traits of agronomical interest such as sex determination, wine aromas and microbiome associations"
+        icon: fas wine-glass
+      - title: "Community"
+        desc: "Our lab is dedicated to provide data and ressources to the community. Among the services proposed, we host a website for grape genomes including blast and genome browser tools. Find out on grapegenomics.com."
+        icon: fas wine-glass
+        url: https://grapegenomics.com
 
   # portfolio:
   #   title: "Portfolio"
