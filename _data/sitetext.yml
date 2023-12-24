@@ -99,12 +99,12 @@ en: &DEFAULT_EN
         role: "Professor of Systems Biology and Louis P. Martini Endowed Chair in Viticulture<br>Executive Director, UC Davis Chile Life Sciences Innovation Center<br>Chair, Viticulture and Enology Graduate Group<br>Chancellor's Fellow"
         image: assets/img/team/dario.png
         social:
-          - url: https://twitter.com
+          - url: https://x.com/CantuLab
             icon: fa-brands fa-x-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://scholar.google.com/citations?user=p50Pg0gAAAAJ&hl=en
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0002-4858-1508
+            icon: fa-brands fa-orcid
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
