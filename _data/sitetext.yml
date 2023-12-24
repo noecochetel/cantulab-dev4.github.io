@@ -97,10 +97,10 @@ en: &DEFAULT_EN
     people:
       - name: "Dario Cantù"
         role: "Professor of Systems Biology and Louis P. Martini Endowed Chair in Viticulture<br>Executive Director, UC Davis Chile Life Sciences Innovation Center<br>Chair, Viticulture and Enology Graduate Group<br>Chancellor's Fellow"
-        image: assets/img/team/dario21b.jpg
+        image: assets/img/team/dario.png
         social:
           - url: https://twitter.com
-            icon: fab fa-x-twitter
+            icon: fab x-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
