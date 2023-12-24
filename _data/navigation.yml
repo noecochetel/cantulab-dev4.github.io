@@ -21,10 +21,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Join us"
       section: join 
-    - title: "About"
-      section: about
     - title: "Contact"
-      section: contact
+      section: about
 en-US:
   <<: *DEFAULT_EN
 en-CA:
