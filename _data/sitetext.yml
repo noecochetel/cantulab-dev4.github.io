@@ -92,7 +92,7 @@ en: &DEFAULT_EN
   team:
     title: "Our Team"
     text: "The People behind the Science"
-    subtext: Students and researchers at any level in their career (postdoc, PhD, MSc, BSc) and with outstanding training in genetics, plant molecular biology, or bioinformatics are invited to contact us to discuss possible projects. The Cantu lab is accepting MSc students from Viticulture and Enology and PhD students from Plant Biology, Plant Pathology, Integrative Genetics and Genomics, and Horticulture and Agronomy.
+    subtext: 
     section: team
     people:
       - name: "Dario Cantù"
@@ -125,6 +125,12 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+
+  join:
+    title: "Join Us"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: join
 
   about:
     title: "About Us"
