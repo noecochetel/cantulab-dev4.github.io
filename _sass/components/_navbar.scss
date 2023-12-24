@@ -13,14 +13,13 @@
   }
   .navbar-brand {
     color: $primary;
-    @include script-font;
+    @include heading-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
       color: darken($primary, 10%);
     }
-    font-family:'Cairo', sans-serif !important;
   }
   .navbar-nav {
     .nav-item {
