@@ -18,15 +18,15 @@ en: &DEFAULT_EN
 
   research:
     title: "Research"
-    text: "Lorem ipsum"
+    text: "Our projects bring together many disciplines including population genetics, haplotype-aware genomics, but also (a)biotic stressors screenings and wine aromas profiling. Our overall aim is to better understand plant genome evolution and facilitate breeding in the context of climate change."
     section: research
     list:
       - title: "Genomics/Genetics"
         desc: "Our research group employs genomics and genetics to study grapevine traits, evolution, and environmental interactions."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+      - title: "Pathogens/Diseases"
+        desc: "Our focus areas include resistance to fungal and bacterial diseases, wood diseases, susceptibility to wildfire smoke, etc."
+        icon: fas fa-bug
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
