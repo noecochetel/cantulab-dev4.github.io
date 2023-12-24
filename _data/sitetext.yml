@@ -21,9 +21,9 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: research
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Genomics/Genetics"
+        desc: "Our research group employs genomics and genetics to study grapevine traits, evolution, and environmental interactions."
+        icon: fa-regular fa-dna #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
