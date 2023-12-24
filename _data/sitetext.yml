@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Our focus areas include resistance to fungal and bacterial diseases, wood diseases, susceptibility to wildfire smoke, etc."
         icon: fas fa-bug
       - title: "Domestication traits"
-        desc: "We also study many traits of agronomical interest such as sex determination, wine aromas and microbiome associations"
+        desc: "We also study many traits of agronomical interest such as sex determination, wine aromas and microbiome associations."
         icon: fas fa-wine-glass
       - title: "Community"
         desc: "We provide data and ressources to the community. We host a website for grape genomes including blast and genome browser tools. Find out more on [grapegenomics.com](https://grapegenomics.com)."
@@ -42,19 +42,19 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "A selection of our work"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "North American wild grapes | Pangenomics"
+        year: "December 2023"
+        desc: "We constructed a super-pangenome to represent and analyze North American wild species of the Vitis genus. The assembly of phased diploid genomes for the nine selected species was a fundamental starting point to ensure an accurate representation of genetic variations that occur within and between genomes. We were able to navigate through different layers of information integrated within the pangenome graph from large structural variations to single-nucleotide polymorphisms."
+        image: assets/img/timeline/Dec2023.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Grape trunk pathogens | Pangenomics"
+        year: "November 2023"
+        desc: ""
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Jekyll Theme is created"
