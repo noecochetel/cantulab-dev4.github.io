@@ -54,8 +54,8 @@ en: &DEFAULT_EN
         alt:
       - title: "Grape trunk pathogens | Pangenomics"
         year: "November 2023"
-        desc: ""
-        image: assets/img/timeline/2.jpg
+        desc: "We sequenced fifty isolates from viticulture regions worldwide and built nucleotide-level, reference-free pangenomes for each species. Through examining genomic diversity and pangenome structure, we analyzed intraspecific conservation and variability of putative virulence factors, focusing on functions under positive selection, and recent gene-family dynamics of contraction and expansion."
+        image: assets/img/timeline/Nov2023.png
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
