@@ -49,12 +49,12 @@ en: &DEFAULT_EN
     events:
       - title: "North American wild grapes | Pangenomics"
         year: "December 2023"
-        desc: "We constructed a super-pangenome to represent and analyze North American wild species of the Vitis genus. The assembly of phased diploid genomes for the nine selected species was a fundamental starting point to ensure an accurate representation of genetic variations that occur within and between genomes. We were able to navigate through different layers of information integrated within the pangenome graph from large structural variations to single-nucleotide polymorphisms."
+        desc: "We constructed a super-pangenome to represent and analyze North American wild species of the Vitis genus. The assembly of phased diploid genomes for the nine selected species was a fundamental starting point to ensure an accurate representation of genetic variations that occur within and between genomes. We were able to navigate through different layers of information integrated within the pangenome graph from large structural variations to single-nucleotide polymorphisms. Read [the article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03133-2)."
         image: assets/img/timeline/Dec2023.png
         alt:
       - title: "Grape trunk pathogens | Pangenomics"
         year: "November 2023"
-        desc: "We sequenced fifty isolates from viticulture regions worldwide and built nucleotide-level, reference-free pangenomes for each species. Through examining genomic diversity and pangenome structure, we analyzed intraspecific conservation and variability of putative virulence factors, focusing on functions under positive selection, and recent gene-family dynamics of contraction and expansion."
+        desc: "We sequenced fifty isolates from viticulture regions worldwide and built nucleotide-level, reference-free pangenomes for each species. Through examining genomic diversity and pangenome structure, we analyzed intraspecific conservation and variability of putative virulence factors, focusing on functions under positive selection, and recent gene-family dynamics of contraction and expansion. Read [the article](https://apsjournals.apsnet.org/doi/abs/10.1094/MPMI-09-23-0129-R)."
         image: assets/img/timeline/Nov2023.png
         alt:
       - title: "Jekyll Theme is created"
@@ -90,17 +90,17 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Team"
+    text: "The people behind the articles"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Dario Cantù"
+        role: "Professor of Systems Biology and Louis P. Martini Endowed Chair in Viticulture<br>Executive Director, UC Davis Chile Life Sciences Innovation Center<br>Chair, Viticulture and Enology Graduate Group<br>Chancellor's Fellow"
+        image: assets/img/team/dario21b.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-x-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
