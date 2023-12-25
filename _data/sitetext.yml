@@ -76,12 +76,12 @@ en: &DEFAULT_EN
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "cantulab"
-        url: 
-        logo: assets/img/clients/cantulab.png
       - title: "uccaes"
         url: https://caes.ucdavis.edu/
         logo: assets/img/clients/uccaes.png
+      - title: "cantulab"
+        url: 
+        logo: assets/img/clients/cantulab.png
       - title: "ucd"
         url: https://wineserver.ucdavis.edu/#/
         logo: assets/img/clients/ucd.png

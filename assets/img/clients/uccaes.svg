@@ -3,14 +3,14 @@
 
 <svg
    width="600"
-   height="200"
-   viewBox="0 0 158.74999 52.916668"
+   height="100"
+   viewBox="0 0 158.74999 26.458334"
    version="1.1"
    id="svg5"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    sodipodi:docname="uccaes.svg"
-   inkscape:export-filename="ucd.png"
+   inkscape:export-filename="uccaes.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -40,14 +40,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><rect
-       style="fill:#ffffff;stroke-width:0.949981;stroke-dasharray:1.89995, 0.949981"
+       style="fill:#ffffff;stroke-width:0.671738;stroke-dasharray:1.34347, 0.671738"
        id="rect428"
        width="158.75"
-       height="52.916668"
+       height="26.458334"
        x="-6.357829e-07"
        y="-6.357829e-07" /><g
        id="g576"
-       transform="matrix(0.03527778,0,0,-0.03527778,5.4990953,39.991375)"><path
+       transform="matrix(0.03448564,0,0,-0.03448564,7.1579316,26.458332)"><path
          d="m 512.926,475.973 c 4.773,85.125 -11.188,166.527 -43.278,239.535 -6.875,15.668 -14.769,30.777 -23.089,45.59 L 0,761.098 V 0.96875 H 128.645 C 339.629,58.5938 499.926,245.57 512.926,475.973"
          style="fill:#daae06;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path578" /><path
