@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         alt: 
       - title: "The Grape Genome | Book release"
         year: "2019"
-    desc: "Read [the book](https://link.springer.com/book/10.1007/978-3-030-18601-2)."
+        desc: "Read [the book](https://link.springer.com/book/10.1007/978-3-030-18601-2)."
         image: assets/img/timeline/2019.png
         alt: 
       - title: "Cabernet Sauvignon genome release | Phased genomics"
