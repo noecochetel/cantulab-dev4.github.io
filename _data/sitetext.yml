@@ -42,7 +42,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "A selection of our work"
+    text: "A selection of our recent work."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -57,18 +57,23 @@ en: &DEFAULT_EN
         desc: "We sequenced fifty isolates from viticulture regions worldwide and built nucleotide-level, reference-free pangenomes for each species. Through examining genomic diversity and pangenome structure, we analyzed intraspecific conservation and variability of putative virulence factors, focusing on functions under positive selection, and recent gene-family dynamics of contraction and expansion. Read [the article](https://apsjournals.apsnet.org/doi/abs/10.1094/MPMI-09-23-0129-R)."
         image: assets/img/timeline/Nov2023.png
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+      - title: "Cabernet Sauvignon Iso-seq | Full-length transcriptomics"
+        year: "March 2019"
+        desc: "We used single molecule-real time sequencing (SMRT) to sequence full-length cDNA (Iso-Seq) and reconstruct the transcriptome of Cabernet Sauvignon berries during berry ripening.. Read [the article](https://academic.oup.com/g3journal/article/9/3/755/6026739)."
+        image: assets/img/timeline/Mar2019.png
+        alt: 
+      - title: "Cabernet Sauvignon genome release | Phased genomics"
+        year: "December 2016"
+        desc: "<i>Vitis vinifera</i> cv. Cabernet Sauvignon was selected as a perenial plant model for the release of Falcon and Falcon-Unzip. Read [the article](https://www.nature.com/articles/nmeth.4035)."
+        image: assets/img/timeline/Dec2016.png
+        alt: 
+      # - title: "Title"
+      #   year: "2009-2011"
+      #   desc: "Your description here, **Markdown** is fully supported."
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
     end: "Be Part <br> of Our <br> Story!"
 
   clients:
@@ -79,16 +84,13 @@ en: &DEFAULT_EN
       - title: "uccaes"
         url: https://caes.ucdavis.edu/
         logo: assets/img/clients/uccaes.png
-      - title: "cantulab"
-        url: 
-        logo: assets/img/clients/cantulab.png
       - title: "ucd"
         url: https://wineserver.ucdavis.edu/#/
         logo: assets/img/clients/ucd.png
 
   team:
     title: "Our Team"
-    text: "The People behind the Science"
+    text: "The People behind the Science."
     subtext: 
     section: team
     people:
@@ -158,9 +160,9 @@ en: &DEFAULT_EN
     section: join
 
   about:
-    title: "Contact Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Contact"
+    text: ""
+    body: "University of California Davis<br>Department of Viticulture & Enology<br>595 Hilgard Lane<br>Davis, CA 95616"
     section: about
     image: assets/img/contact.png
 
