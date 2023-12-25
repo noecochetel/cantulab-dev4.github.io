@@ -105,26 +105,54 @@ en: &DEFAULT_EN
             icon: fa-brands fa-google-scholar
           - url: https://orcid.org/0000-0002-4858-1508
             icon: fa-brands fa-orcid
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Rosa Figueroa-Balderas"
+        role: "Specialist and Lab Manager"
+        image: assets/img/team/rosa.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+          - url: https://scholar.google.com/citations?user=uLOAUp4AAAAJ&hl=en
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0003-3321-1376
+            icon: fa-brands fa-orcid
+      - name: "Mélanie Massonnet"
+        role: "Project Scientist"
+        image: assets/img/team/melanie.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://scholar.google.com/citations?user=1OiOZYEAAAAJ&hl=en
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0003-0993-9148
+            icon: fa-brands fa-orcid
+      - name: "Noé Cochetel"
+        role: "Staff Research Associate"
+        image: assets/img/team/noe.png
+        social:
+          - url: https://x.com/NCochetel
+            icon: fa-brands fa-x-twitter
+          - url: https://scholar.google.com/citations?user=P5U4dagAAAAJ&hl=en
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0003-3395-9536
+            icon: fa-brands fa-orcid
+      - name: "Jerry Lin"
+        role: "PhD Candidate"
+        image: assets/img/team/jerry.png
+        social:
+          - url: https://scholar.google.com/citations?user=MuqeBwoAAAAJ
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0002-1130-9092
+            icon: fa-brands fa-orcid
+      - name: "Jadran García Navarrete"
+        role: "PhD Candidate"
+        image: assets/img/team/jadran.png
+        social:
+          - url: https://scholar.google.com/citations?user=MuqeBwoAAAAJ
+            icon: fa-brands fa-google-scholar
+          - url: https://orcid.org/0000-0002-5883-4820
+            icon: fa-brands fa-orcid
+      - name: "Mirella Zaccheo"
+        role: "PhD Candidate"
+        image: assets/img/team/mirella.png
+        social:
+          - url: https://scholar.google.com/citations?user=4NqOFqwAAAAJ&hl=en&oi=ao
+            icon: fa-brands fa-google-scholar
 
   join:
     title: "Join Us"
