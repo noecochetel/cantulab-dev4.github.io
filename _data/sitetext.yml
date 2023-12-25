@@ -57,10 +57,45 @@ en: &DEFAULT_EN
         desc: "We sequenced fifty isolates from viticulture regions worldwide and built nucleotide-level, reference-free pangenomes for each species. Through examining genomic diversity and pangenome structure, we analyzed intraspecific conservation and variability of putative virulence factors, focusing on functions under positive selection, and recent gene-family dynamics of contraction and expansion. Read [the article](https://apsjournals.apsnet.org/doi/abs/10.1094/MPMI-09-23-0129-R)."
         image: assets/img/timeline/Nov2023.png
         alt:
+      - title: "Release of three rootstock genomes | HiFi genomics"
+        year: "October 2022"
+        desc: "We developed HaploSync, a suite of tools that produces fully phased, chromosome-scale diploid genome assemblies, and performs extensive quality control to limit assembly artifacts. Read [the article](https://academic.oup.com/g3journal/article/12/8/jkac143/6605224)."
+        image: assets/img/timeline/Oct2022.png
+        alt: 
+      - title: "Diploid genome scaffolding | Tool release"
+        year: "June 2022"
+        desc: "We developed HaploSync, a suite of tools that produces fully phased, chromosome-scale diploid genome assemblies, and performs extensive quality control to limit assembly artifacts. Read [the article](https://academic.oup.com/g3journal/article/12/8/jkac143/6605224)."
+        image: assets/img/timeline/Jun2022.png
+        alt: 
+      - title: "Trayshed genome release | Phased genomics with hybrid scaffolds"
+        year: "February 2021"
+        desc: "We report the phased, chromosome-scale assembly of Trayshed, which was produced improving the previous SMRT assembly with the introduction of the optical maps in a hybrid scaffolding approach and consensus genetic map from multiple wild and cultivated grape species. Read [the article](https://academic.oup.com/g3journal/article/11/4/jkab033/6129119)."
+        image: assets/img/timeline/Feb2021.png
+        alt: 
+      - title: "The genetic basis of sex determination in grapes | Chromosome-scale genomics"
+        year: "June 2020"
+        desc: "We report an improved, chromosome-scale Cabernet Sauvignon genome sequence and the phased assembly of nine wild and cultivated grape genomes. By resolving twenty Vitis SDR haplotypes, we compare male, female, and hermaphrodite haplotype structures and identify sex-linked regions. Read [the article](https://www.nature.com/articles/s41467-020-16700-z)."
+        image: assets/img/timeline/Jun2020.png
+        alt: 
+      - title: "Zinfandel clonal diversity"
+        year: "December 2019"
+        desc: "The purpose of this study was to better appreciate clone diversity and involved defining the nature of somatic mutations throughout the genome. Fifteen Zinfandel winegrape clone genomes were sequenced and compared to one another using a highly contiguous genome reference produced from one of the clones, Zinfandel 03. Read [the article](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6211-2)."
+        image: assets/img/timeline/Dec2019.png
+        alt: 
+      - title: "Carménère genome release"
+        year: "May 2019"
+        desc: "Read [the article](https://academic.oup.com/g3journal/article/9/5/1331/6026426)."
+        image: assets/img/timeline/May2019.png
+        alt: 
       - title: "Cabernet Sauvignon Iso-seq | Full-length transcriptomics"
         year: "March 2019"
         desc: "We used single molecule-real time sequencing (SMRT) to sequence full-length cDNA (Iso-Seq) and reconstruct the transcriptome of Cabernet Sauvignon berries during berry ripening.. Read [the article](https://academic.oup.com/g3journal/article/9/3/755/6026739)."
         image: assets/img/timeline/Mar2019.png
+        alt: 
+      - title: "The Grape Genome | Book release"
+        year: "2019"
+    desc: "Read [the book](https://link.springer.com/book/10.1007/978-3-030-18601-2)."
+        image: assets/img/timeline/2019.png
         alt: 
       - title: "Cabernet Sauvignon genome release | Phased genomics"
         year: "December 2016"
