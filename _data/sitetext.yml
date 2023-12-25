@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our lab page!
-    text: 
+    text: " "
     button: Our Research
     buttonlink: "#research"
 
