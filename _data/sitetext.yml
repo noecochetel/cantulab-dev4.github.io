@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our lab page!
-    text: " "
+    title: "    "
+    text: Welcome to our lab page!
     button: Our Research
     buttonlink: "#research"
 
