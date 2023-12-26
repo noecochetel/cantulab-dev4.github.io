@@ -183,7 +183,7 @@ en: &DEFAULT_EN
         role: "PhD Candidate"
         image: assets/img/team/jadran.png
         social:
-          - url: https://scholar.google.com/citations?user=MuqeBwoAAAAJ
+          - url: https://scholar.google.com/citations?user=Tbdz3NcAAAAJ&hl=en
             icon: fa-brands fa-google-scholar
           - url: https://orcid.org/0000-0002-5883-4820
             icon: fa-brands fa-orcid
