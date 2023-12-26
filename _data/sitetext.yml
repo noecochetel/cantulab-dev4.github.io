@@ -83,7 +83,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/Dec2019.png
         alt: 
       - title: "Grapegenomics.com release"
-        desc: "Release of our resource website grapegenomics.com with blast and genome browser tools. Visit at [grapegenomics.com](https://grapegenomics.com)."
+        desc: "Release of our community resource website [grapegenomics.com](https://grapegenomics.com) with blast and genome browser tools."
         image: assets/img/timeline/Dec2019b.png
         alt:
       - title: "Carménère genome release"
@@ -103,11 +103,11 @@ en: &DEFAULT_EN
         alt: 
       - title: "Red blotch characterization | Integrated transcriptomics and metabolomics"
         year: "February 2017"
-        desc: We integrated genome-wide transcriptional profiling, targeted chemical and biochemical analyses, and demonstrated that grapevine red blotch disrupts ripening and metabolism of red-skinned berries. "Read [the article](https://academic.oup.com/jxb/article/68/5/1225/2959531)."
+        desc: "We integrated genome-wide transcriptional profiling, targeted chemical and biochemical analyses, and demonstrated that grapevine red blotch disrupts ripening and metabolism of red-skinned berries. Read [the article](https://academic.oup.com/jxb/article/68/5/1225/2959531)."
         image: assets/img/timeline/Feb2017.png
         alt: 
       - title: "Grapevine trunk pathogens transcriptomics | Metatranscriptomics"
-        desc: Using naturally infected field samples expressing a variety of trunk disease symptoms, we show that our approach provides quantitative assessments of species composition, as well as genomewide transcriptional profiling of potential virulence factors, namely cell wall degradation, secondary metabolism and nutrient uptake for all co-infecting GTPs. Read [the article](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12544)."
+        desc: "Using naturally infected field samples expressing a variety of trunk disease symptoms, we show that our approach provides quantitative assessments of species composition, as well as genomewide transcriptional profiling of potential virulence factors, namely cell wall degradation, secondary metabolism and nutrient uptake for all co-infecting GTPs. Read [the article](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12544)."
         image: assets/img/timeline/Feb2017b.png
         alt:
       - title: "Cabernet Sauvignon genome release | Phased genomics"
