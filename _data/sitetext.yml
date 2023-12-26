@@ -59,7 +59,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Release of three rootstock genomes | HiFi genomics"
         year: "October 2022"
-        desc: "We developed HaploSync, a suite of tools that produces fully phased, chromosome-scale diploid genome assemblies, and performs extensive quality control to limit assembly artifacts. Read [the article](https://academic.oup.com/g3journal/article/12/8/jkac143/6605224)."
+        desc: "we report the diploid chromosome-scale assembly of three widely used rootstocks derived from these species: Richter 110 (110R), Kober 5BB, and 101–14 Millardet et de Grasset (Mgt). Read [the article](https://www.nature.com/articles/s41597-022-01753-0)."
         image: assets/img/timeline/Oct2022.png
         alt: 
       - title: "Diploid genome scaffolding | Tool release"
