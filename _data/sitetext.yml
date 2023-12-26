@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "    "
-    text: Welcome to our lab page!
+    title: "Welcome to the Cantu lab page!"
+    text: 
     button: Our Research
     buttonlink: "#research"
 
