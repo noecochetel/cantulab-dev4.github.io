@@ -205,7 +205,6 @@ en: &DEFAULT_EN
     text: ""
     body: "dacantu[at]ucdavis.edu<br>University of California Davis<br>Department of Viticulture & Enology<br>595 Hilgard Lane<br>Davis, CA 95616<br>[Google Maps](https://www.google.com/maps/place/595+Hilgard+Ln+Rmi+North,+Davis,+CA+95616/@38.5330728,-121.7534876,17z/data=!3m1!4b1!4m6!3m5!1s0x80852910e276ab99:0x4a4cbde1432868c7!8m2!3d38.5330728!4d-121.7509127!16s%2Fg%2F1tds6xy5?hl=en&entry=ttu)"
     section: contact
-    image: assets/img/contact.png
 
   footer:
     legal: "Privacy Policy"
