@@ -119,6 +119,9 @@ en: &DEFAULT_EN
       - title: "uccaes"
         url: https://caes.ucdavis.edu/
         logo: assets/img/clients/uccaes.png
+      - title: "blank"
+        url: 
+        logo: 
       - title: "ucd"
         url: https://wineserver.ucdavis.edu/#/
         logo: assets/img/clients/ucd.png
