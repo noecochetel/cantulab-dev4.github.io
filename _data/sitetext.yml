@@ -82,6 +82,10 @@ en: &DEFAULT_EN
         desc: "The purpose of this study was to better appreciate clone diversity and involved defining the nature of somatic mutations throughout the genome. Fifteen Zinfandel winegrape clone genomes were sequenced and compared to one another using a highly contiguous genome reference produced from one of the clones, Zinfandel 03. Read [the article](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6211-2)."
         image: assets/img/timeline/Dec2019.png
         alt: 
+      - title: "Grapegenomics.com release"
+        desc: "Release of our resource website grapegenomics.com with blast and genome browser tools. Visit at [grapegenomics.com](https://grapegenomics.com)."
+        image: assets/img/timeline/Dec2019b.png
+        alt:
       - title: "Carménère genome release"
         year: "May 2019"
         desc: "Read [the article](https://academic.oup.com/g3journal/article/9/5/1331/6026426)."
@@ -97,10 +101,34 @@ en: &DEFAULT_EN
         desc: "Read [the book](https://link.springer.com/book/10.1007/978-3-030-18601-2)."
         image: assets/img/timeline/2019.png
         alt: 
+      - title: "Red blotch characterization | Integrated transcriptomics and metabolomics"
+        year: "February 2017"
+        desc: We integrated genome-wide transcriptional profiling, targeted chemical and biochemical analyses, and demonstrated that grapevine red blotch disrupts ripening and metabolism of red-skinned berries. "Read [the article](https://academic.oup.com/jxb/article/68/5/1225/2959531)."
+        image: assets/img/timeline/Feb2017.png
+        alt: 
+      - title: "Grapevine trunk pathogens transcriptomics | Metatranscriptomics"
+        desc: Using naturally infected field samples expressing a variety of trunk disease symptoms, we show that our approach provides quantitative assessments of species composition, as well as genomewide transcriptional profiling of potential virulence factors, namely cell wall degradation, secondary metabolism and nutrient uptake for all co-infecting GTPs. Read [the article](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12544)."
+        image: assets/img/timeline/Feb2017b.png
+        alt:
       - title: "Cabernet Sauvignon genome release | Phased genomics"
         year: "December 2016"
         desc: "<i>Vitis vinifera</i> cv. Cabernet Sauvignon was selected as a perenial plant model for the release of Falcon and Falcon-Unzip. Read [the article](https://www.nature.com/articles/nmeth.4035)."
         image: assets/img/timeline/Dec2016.png
+        alt: 
+      - title: "Noble rot characterization | Integrated transcriptomics and metabolomics"
+        year: "December 2015"
+        desc: "We integrated transcriptomics, metabolomics, and enzyme activity assays to characterize the impact of noble rot on the development and metabolism of white-skinned grape berries under field conditions. Read [the article](https://academic.oup.com/plphys/article/169/4/2422/6114124)."
+        image: assets/img/timeline/Dec2015.png
+        alt: 
+      - title: "Grapevine trunk pathogens genomics | Comparative genomics"
+        year: "June 2015"
+        desc: "This study describes the repertoires of putative virulence functions in the genomes of ubiquitous grapevine trunk pathogens. The integration of RNA-seq, comparative and ab initio approaches improved the protein-coding gene prediction in T. minima, whereas shotgun sequencing yielded nearly complete genome drafts of Dia. ampelina, Dip. seriata, and P. chlamydospora. Read [the article](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1624-z)."
+        image: assets/img/timeline/Jun2015.png
+        alt:
+      - title: "Powdery mildew genomics | Comparative genomics"
+        year: "December 2014"
+        desc: "A shotgun approach was applied to sequence and assemble the genome of five E. necator isolates, and RNA-seq and comparative genomics were used to predict and annotate protein-coding genes. Read [the article](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-1081)."
+        image: assets/img/timeline/Dec2014.png
         alt: 
       # - title: "Title"
       #   year: "2009-2011"
