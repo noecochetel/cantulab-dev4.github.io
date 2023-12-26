@@ -6,13 +6,17 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].contact.title | default: "Contact" }}</h2>
         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</h3>
+          <div class="row">
+            <div class="col-lg-12 mx-auto text-left"></div>
+            <p class="text-left">{{ site.data.sitetext[site.locale].contact.body | markdownify }}</p>
+          </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-4 mx-auto text-left">
+    <!-- <div class="row">
+      <div class="col-lg-12 mx-auto text-left">
         <p class="text-left">{{ site.data.sitetext[site.locale].contact.body | markdownify }}</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 {% else %}
@@ -22,13 +26,17 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">{{ site.data.sitetext.contact.title | default: "Contact" }}</h2>
         <h3 class="section-subheading text-muted">{{ site.data.sitetext.contact.text | default: "" }}</h3>
+          <div class="row">
+            <div class="col-lg-12 mx-auto text-left"></div>
+            <p class="text-left">{{ site.data.sitetext[site.locale].contact.body | markdownify }}</p>
+          </div>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-lg-4 mx-auto text-left">
         <p class="text-left">{{ site.data.sitetext.contact.body | markdownify }}</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 {% endif %}
