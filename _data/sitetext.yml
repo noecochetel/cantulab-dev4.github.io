@@ -165,6 +165,12 @@ en: &DEFAULT_EN
             icon: fa-brands fa-google-scholar
           - url: https://orcid.org/0000-0003-3395-9536
             icon: fa-brands fa-orcid
+      - name: "Manon Paineau"
+        role: "Postdoc"
+        image: assets/img/team/manon.png
+        social:
+          - url: https://orcid.org/0000-0001-6881-1203
+            icon: fa-brands fa-orcid
       - name: "Jerry Lin"
         role: "PhD Candidate"
         image: assets/img/team/jerry.png
@@ -197,7 +203,7 @@ en: &DEFAULT_EN
   about:
     title: "Contact"
     text: ""
-    body: "University of California Davis<br>Department of Viticulture & Enology<br>595 Hilgard Lane<br>Davis, CA 95616"
+    body: "dacantu[at]ucdavis.edu<br>University of California Davis<br>Department of Viticulture & Enology<br>595 Hilgard Lane<br>Davis, CA 95616<br>[Google Maps](https://www.google.com/maps/place/595+Hilgard+Ln+Rmi+North,+Davis,+CA+95616/@38.5330728,-121.7534876,17z/data=!3m1!4b1!4m6!3m5!1s0x80852910e276ab99:0x4a4cbde1432868c7!8m2!3d38.5330728!4d-121.7509127!16s%2Fg%2F1tds6xy5?hl=en&entry=ttu)"
     section: about
     image: assets/img/contact.png
 
